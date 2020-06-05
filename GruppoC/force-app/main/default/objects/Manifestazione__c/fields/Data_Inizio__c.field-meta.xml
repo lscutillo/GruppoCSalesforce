@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Data_ora_fine__c</fullName>
+    <fullName>Data_Inizio__c</fullName>
     <externalId>false</externalId>
-    <label>Data/ora fine</label>
-    <required>false</required>
+    <label>Data Inizio</label>
+    <required>true</required>
     <trackTrending>false</trackTrending>
-    <type>DateTime</type>
+    <type>Date</type>
 </CustomField>
