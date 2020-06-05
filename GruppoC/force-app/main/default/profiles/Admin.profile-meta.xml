@@ -28,7 +28,12 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Conferenza__c.Nome__c</field>
+        <field>Conferenza__c.Numero_Iscritti__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Conferenza__c.Numero_commenti__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -44,11 +49,6 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Luogo__c.Indirizzo__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Luogo__c.Nome__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
