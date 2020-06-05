@@ -19,7 +19,7 @@
                 <field>Data_Fine__c</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Required</behavior>
+                <behavior>Edit</behavior>
                 <field>Luogo__c</field>
             </layoutItems>
             <layoutItems>
