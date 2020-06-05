@@ -148,15 +148,15 @@
     <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
     <enableLicensing>false</enableLicensing>
-    <enableReports>false</enableReports>
-    <enableSearch>false</enableSearch>
+    <enableReports>true</enableReports>
+    <enableSearch>true</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
     <gender>Feminine</gender>
     <label>Conferenza</label>
     <nameField>
-        <label>Conferenza Name</label>
+        <label>Nome</label>
         <type>Text</type>
     </nameField>
     <pluralLabel>Conferenze</pluralLabel>

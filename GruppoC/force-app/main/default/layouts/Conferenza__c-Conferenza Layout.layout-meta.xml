@@ -12,10 +12,6 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Nome__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
                 <field>Relatore__c</field>
             </layoutItems>
             <layoutItems>
@@ -33,6 +29,14 @@
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>Manifestazione__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Numero_Iscritti__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Numero_commenti__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
