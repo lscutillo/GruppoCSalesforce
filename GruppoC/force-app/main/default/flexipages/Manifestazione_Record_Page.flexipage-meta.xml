@@ -93,7 +93,7 @@
     </flexiPageRegions>
     <flexiPageRegions>
         <componentInstances>
-            <componentName>DetailManifestazioneMap</componentName>
+            <componentName access="global">DetailManifestazioneMap</componentName>
         </componentInstances>
         <mode>Replace</mode>
         <name>sidebar</name>

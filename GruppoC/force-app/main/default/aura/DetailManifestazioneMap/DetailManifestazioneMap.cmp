@@ -1,4 +1,4 @@
-<aura:component  implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes" access="global" controller="ConferenceController" >
+<aura:component  implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes" access="global" >
     <aura:attribute name="mapMarkers" type="Object[]"/>
     <aura:attribute name="zoomLevel" type="Integer" default="5" />
     <aura:attribute name="messageIfListEmpty" type="String" />
@@ -16,7 +16,7 @@
                           zoomLevel="{!v.zoomLevel}" />
           </lightning:layoutItem>
       </lightning:layout>
-      
+
     <aura:set attribute="else">
         <lightning:layout class="slds-page-header slds-page-header--object-home">
             <lightning:layoutItem>
