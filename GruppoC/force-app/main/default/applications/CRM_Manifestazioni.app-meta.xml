@@ -12,6 +12,10 @@
     <navType>Standard</navType>
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
+    <tabs>Conferenza__c</tabs>
+    <tabs>Mappa_Conferenze</tabs>
+    <tabs>Manifestazione__c</tabs>
+    <tabs>Luogo__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>CRM_Manifestazioni_UtilityBar</utilityBar>
 </CustomApplication>
